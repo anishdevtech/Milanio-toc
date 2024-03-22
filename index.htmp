@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Terms and Conditions for Discord Bot Usage</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 20px;
+        }
+        h1 {
+            text-align: center;
+        }
+        h2 {
+            margin-top: 20px;
+        }
+        p {
+            line-height: 1.6;
+        }
+    </style>
+</head>
+<body>
+    <h1>Terms and Conditions for Discord Bot Usage</h1>
+    <p>Welcome to our Discord bot! Before you proceed to use our bot, please carefully read and understand the following terms and conditions. By using our bot, you agree to abide by these terms and conditions in their entirety. If you do not agree with any part of these terms and conditions, please refrain from using our bot.</p>
+    <h2>1. Acceptance of Terms</h2>
+    <p>By using our Discord bot, you acknowledge that you have read, understood, and agree to be bound by these terms and conditions. These terms and conditions may be updated from time to time without prior notice, and it is your responsibility to review them periodically.</p>
+    <h2>2. Use of the Bot</h2>
+    <p>Our Discord bot is provided to you for personal, non-commercial use only. You may not use the bot for any illegal, unauthorized, or unethical purposes. Any misuse or abuse of the bot is strictly prohibited.</p>
+    <h2>3. Intellectual Property</h2>
+    <p>All content, including but not limited to text, graphics, logos, images, and software, provided by our bot is the intellectual property of the bot owner unless otherwise stated. You may not reproduce, distribute, modify, or create derivative works of any content provided by the bot without prior written consent from the bot owner.</p>
+    <h2>4. User Conduct</h2>
+    <p>You agree to use our Discord bot in a manner that is lawful, respectful, and in accordance with Discord's terms of service. You may not engage in any conduct that disrupts the operation of the bot or interferes with other users' ability to use the bot.</p>
+    <h2>5. Privacy</h2>
+    <p>We respect your privacy and are committed to protecting your personal information. By using our Discord bot, you consent to the collection, use, and disclosure of your personal information in accordance with our Privacy Policy.</p>
+    <h2>6. Limitation of Liability</h2>
+    <p>Our Discord bot is provided on an "as is" and "as available" basis without any warranties, express or implied. We shall not be liable for any direct, indirect, incidental, special, or consequential damages arising out of or in any way connected with the use of our bot.</p>
+    <h2>7. Indemnification</h2>
+    <p>You agree to indemnify and hold harmless the bot owner, its affiliates, and their respective officers, directors, employees, and agents from and against any and all claims, liabilities, damages, losses, or expenses, including legal fees, arising out of or in any way related to your use of the bot.</p>
+    <h2>8. Changes to the Bot</h2>
+    <p>We reserve the right to modify, suspend, or discontinue any aspect of the bot at any time without prior notice. We shall not be liable to you or any third party for any such modifications, suspensions, or discontinuations.</p>
+    <h2>9. Governing Law</h2>
+    <p>These terms and conditions shall be governed by and construed in accordance with the laws of [insert jurisdiction]. Any dispute arising out of or in connection with these terms and conditions shall be subject to the exclusive jurisdiction of the courts of [insert jurisdiction].</p>
+    <h2>10. Severability</h2>
+    <p>If any provision of these terms and conditions is found to be invalid, illegal, or unenforceable, the remaining provisions shall continue to be valid, legal, and enforceable to the fullest extent permitted by law.</p>
+    <h2>11. Entire Agreement</h2>
+    <p>These terms and conditions constitute the entire agreement between you and the bot owner regarding the use of our Discord bot and supersede all prior agreements and understandings, whether oral or written.</p>
+    <p>By continuing to use our Discord bot, you acknowledge that you have read, understood, and agree to be bound by these terms and conditions. If you have any questions or concerns regarding these terms and conditions, please contact us at [insert contact information]. Thank you for using our bot!</p>
+</body>
+</html>
